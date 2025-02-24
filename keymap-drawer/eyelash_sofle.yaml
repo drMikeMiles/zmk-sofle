@@ -259,3 +259,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [23, 24]
+  k: {t: '[', s: '{'}
+  l: [Layer 0]
+- p: [24, 25]
+  k: {t: ']', s: '}'}
